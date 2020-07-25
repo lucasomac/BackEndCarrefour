@@ -77,7 +77,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desenvolvimento back-end com Node.js]
 - [Desafio prático: Criando uma API em Node.js para gerenciar seus crushes]
 - [Desafio prático: IA com JAVA? Construindo um sistema de recomendação!]
-- [Expert Lesson: Introdução à LGPD]()
+- [Expert Lesson: Introdução à LGPD]
 
 ## 📜 Licença:
 
