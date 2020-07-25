@@ -1,17 +1,17 @@
-<div>
+<div align="center">
 
 ![github](assets/logo.png "logo")
 </div>
 
 <div align="center">
 
-# BackEndCarrefour para uso em repositórios do GitHub</div>
+# BackEndCarrefour
+</div>
 <div align="center">
 
   [Projeto](#-projeto) | 
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
-  [Como contribuir](#-como-contribuir) | 
   [Cursos e certificados](#-cursos-e-certificados) | 
   [Licença](#-licença)
 </div>
@@ -27,30 +27,23 @@
 [![Downloads](https://img.shields.io/github/downloads/lucasomac/BackEndCarrefour/total?color=920629&style=flat-square)](https://github.com/lucasomac/BackEndCarrefour/releases)
 </div>
 
-<p align="center">
-  Template open-source, contribua você também 😃
-</p>
-
 ## 💻 Projeto
 
-Este projeto foi desenvolvido para servir de template para criação de repositórios no Github. Desta forma é possivel termos um BackEndCarrefour padrão e pré customizado para os nossos repositórios
+Este repositório foi contruído para alocar os arquivos e dados do bootcamp BackEndCarrefour
 
 ## ⚙ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Java](https://www.java.com/en/)
+- [JavaScript](https://www.javascript.com/)
 
 ## ⛏ Ferramentas:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
-- [Visual Studio](https://visualstudio.microsoft.com/vs/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Android Studio](https://developer.android.com/studio)
 - [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
