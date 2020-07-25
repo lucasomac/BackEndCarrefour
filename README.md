@@ -63,20 +63,20 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Arquitetura de Sistemas Avançado](/certificados/E5CE7935.pdf)
 - [Desenvolvimento básico em Java](/certificados/57D1EC40.pdf)
 - [Implementando Collections e Streams com Java](/certificados/9DA2805D.pdf)
-- [Introdução ao framework Spring Boot]()
-- [Desenvolvimento avançado em Java]()
-- [Criando aplicações web com Spring Web MVC]()
-- [Aprenda a aplicar testes com Java]()
-- [Desafio prático: Deploying Java em Kubernetes com Quarkus]()
+- [Introdução ao framework Spring Boot]
+- [Desenvolvimento avançado em Java]
+- [Criando aplicações web com Spring Web MVC]
+- [Aprenda a aplicar testes com Java]
+- [Desafio prático: Deploying Java em Kubernetes com Quarkus]
 - [Conceitos e melhores práticas com bancos de dados PostgreSQL](/certificados/F0824D30.pdf)
 - [Projetos ágeis com SCRUM](/certificados/BBCAA04A.pdf)
 - [Programação para internet com JavaScript](/certificados/170F6F18.pdf)
 - [JavaScript ES6 essencial](/certificados/1732C5C4.pdf)
 - [Desenvolvimento avançado com JavaScript ES](/certificados/2EE27DAA.pdf)
-- [Introdução ao Node.js com Express]()
-- [Desenvolvimento back-end com Node.js]()
-- [Desafio prático: Criando uma API em Node.js para gerenciar seus crushes]()
-- [Desafio prático: IA com JAVA? Construindo um sistema de recomendação!]()
+- [Introdução ao Node.js com Express]
+- [Desenvolvimento back-end com Node.js]
+- [Desafio prático: Criando uma API em Node.js para gerenciar seus crushes]
+- [Desafio prático: IA com JAVA? Construindo um sistema de recomendação!]
 - [Expert Lesson: Introdução à LGPD]()
 
 ## 📜 Licença:
