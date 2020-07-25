@@ -29,7 +29,7 @@
 
 ## 💻 Projeto
 
-Este repositório foi contruído para alocar os arquivos e dados do bootcamp BackEndCarrefour
+Este repositório foi construído para alocar os arquivos e dados do bootcamp BackEndCarrefour
 
 ## ⚙ Tecnologias
 
@@ -48,6 +48,8 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [IntelliJIDEA](https://www.jetbrains.com/pt-br/idea/)
+- [GitHub](https://github.com/)
+- [Git](https://git-scm.com/)
 
 ## 🏁 Cursos e certificados:
 
@@ -59,7 +61,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Criando um repositório para seus projetos inovadores](/certificados/7769FC21.pdf)
 - [Fundamentos de Arquitetura de Sistemas](/certificados/5B342C88.pdf)
 - [Arquitetura de Sistemas Avançado](/certificados/E5CE7935.pdf)
-- [Desenvolvimento básico em Java]()
+- [Desenvolvimento básico em Java](/certificados/57D1EC40.pdf)
 - [Implementando Collections e Streams com Java]()
 - [Introdução ao framework Spring Boot]()
 - [Desenvolvimento avançado em Java]()
